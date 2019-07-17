@@ -15,3 +15,4 @@ def countdown_with_sleep(num)
    sleep 2 "#{number} SECOND(S)!"
    number -= 1
 end
+end
